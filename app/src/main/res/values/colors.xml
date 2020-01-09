@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#8C001A</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#8C001A</color>
+    <color name="header">#FFF6F2</color>
+    <color name="textColor">#3f3f3f</color>
+    <color name="maincolor">#8C001A</color>
+    <color name="hintColor">#818080</color>
+    <color name="viewcolor">#52818080</color>
+    <color name="red">#D10602</color>
+    <color name="light_grey">#ff888888</color>
+    <color name="view">#F4F4F5</color>
+    <color name="textSecondaryGrid">@color/colorAccentGrid</color>
+    <color name="colorAccentGrid">#388e3c</color>
+    <color name="gray">#D3D3D3</color>
+    <color name="yellow">#CC995B</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+</resources>
